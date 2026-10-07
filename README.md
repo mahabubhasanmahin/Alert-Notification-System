@@ -2,7 +2,7 @@
 
 A multi-threaded client-server messaging and alert management application built with **Java SE**, **Swing GUI**, and **TCP Socket Programming**. Designed for real-time notification broadcasting, status tracking, and direct administrative replies across multiple connected clients.
 
-> 📄 **Project Documentation:** [View Full Lab Report (PDF)](docs/Project_Report.pdf)
+> 📄 **Project Documentation:** [View Full Lab Report (PDF)](docs/Alert_Notification_System_Report.pdf)
 
 ---
 
